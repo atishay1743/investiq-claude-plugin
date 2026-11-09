@@ -1,0 +1,15 @@
+{
+  "name": "investiq",
+  "displayName": "InvestIQ",
+  "version": "1.0.0",
+  "description": "Research Indian (NSE/BSE) stocks with saved multi-model intrinsic valuations, fundamentals, price history, screening and value-investing strategies. Read-only; no brokerage access.",
+  "author": {
+    "name": "Atishay Jain",
+    "email": "atishay1743@gmail.com",
+    "url": "https://investiq.live"
+  },
+  "homepage": "https://investiq.live",
+  "repository": "https://github.com/atishay1743/investiq-claude-plugin",
+  "license": "MIT",
+  "keywords": ["india", "stocks", "nse", "bse", "valuation", "stock-research", "finance"]
+}

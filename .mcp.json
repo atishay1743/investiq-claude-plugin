@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "investiq": {
+      "type": "http",
+      "url": "https://api.investiq.live/mcp"
+    }
+  }
+}

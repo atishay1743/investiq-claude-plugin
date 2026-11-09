@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "investiq",
+  "description": "InvestIQ: Indian stock research for Claude",
+  "owner": { "name": "Atishay Jain", "email": "atishay1743@gmail.com" },
+  "plugins": [
+    {
+      "name": "investiq",
+      "description": "Research Indian (NSE/BSE) stocks with saved multi-model valuations, screening and strategies. Read-only.",
+      "category": "finance",
+      "source": "./",
+      "homepage": "https://investiq.live"
+    }
+  ]
+}
